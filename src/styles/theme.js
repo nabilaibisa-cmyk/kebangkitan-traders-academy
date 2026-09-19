@@ -1,0 +1,16 @@
+export const COLORS = {
+  bg: "#0B1220",
+  bg2: "#0F1830",
+  surface: "#141F38",
+  surfaceAlt: "#1B2848",
+  line: "#26355C",
+  text: "#E9EDF7",
+  muted: "#8C97B8",
+  mutedDim: "#5F6B8C",
+  teal: "#45D6C0",
+  tealDim: "#1F5750",
+  amber: "#F2B33D",
+  amberDim: "#5A431A",
+  coral: "#F0655A",
+  coralDim: "#4A2420",
+};
